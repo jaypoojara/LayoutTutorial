@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LayoutTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_linear_layout_tutorial">LinearLayoutTutorial</string>
+    <string name="title_activity_relative_layout">RelativeLayout</string>
+
+</resources>
